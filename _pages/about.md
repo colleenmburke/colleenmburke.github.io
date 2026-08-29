@@ -43,4 +43,4 @@ Colleen has experience with engineering design, digital fabrication, biomedical 
 | ASAIO 2026 | BMES 2025 |
 |:---:|:---:|
 | <img src="/assets/img/asaio_presentation.JPG" alt="ASAIO 2026 presentation" width="300"> | <img src="/assets/img/bmes_presentation.JPG" alt="BMES 2025 presentation" width="300"> |
-| *“A Physiological Closed-Loop System for Automated Fluid Resuscitation”*<br>June 2026 | *“Custom Cannula Engineering for Heart-Lung Perfusion and Transplantation Applications”*<br>October 2025 |
+| *“A Physiological Closed-Loop System for Autonomous Fluid Resuscitation”*<br>June 2026 | *“Custom Cannula Engineering for Heart-Lung Perfusion and Transplantation Applications”*<br>October 2025 |
