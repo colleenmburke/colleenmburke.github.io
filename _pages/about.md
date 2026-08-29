@@ -19,3 +19,5 @@ Colleen has experience with engineering design, digital fabrication, and biomedi
 * Software: MATLAB, Arduino IDE, Fusion 360, PreForm
 * Fabrication: Fused Filament Fabrication (FFF), Stereolithography (SLA)
 * Hardware: Arduino, Electronic Prototyping
+
+![Colleen Burke](/assets/img/Headshot.jpg)
