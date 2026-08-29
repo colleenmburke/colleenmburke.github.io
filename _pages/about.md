@@ -14,7 +14,7 @@ She is seeking opportunities in surgical device development and healthcare techn
 
 **Vanderbilt University**  
 *B.E. Biomedical Engineering — Expected 2027*  
-*Minors: Engineering Management and Digital Fabrication*
+Minors: Engineering Management and Digital Fabrication
 
 ## Work Experience
 
