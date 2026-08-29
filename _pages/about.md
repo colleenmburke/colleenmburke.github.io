@@ -8,7 +8,7 @@ title: "About Colleen Burke"
 
 Colleen is a biomedical engineering student interested in medical device development and the intersection of engineering, healthcare, and business strategy. Her academic and professional experiences have included biomedical research at the Vanderbilt University Medical Center and consulting within the life sciences and healthcare technology industries.
 
-Vanderbilt University
+Vanderbilt University  
 *B.E. Biomedical Engineering*  
 *Minors: Engineering Management, Digital Fabrication*  
 
