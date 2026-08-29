@@ -19,5 +19,3 @@ Colleen has experience with engineering design, digital fabrication, and biomedi
 * Software: MATLAB, Arduino IDE, Fusion 360, PreForm
 * Fabrication: Fused Filament Fabrication (FFF), Stereolithography (SLA)
 * Hardware: Arduino, Electronic Prototyping
-
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
