@@ -13,14 +13,14 @@ She is seeking opportunities in surgical device development and healthcare techn
 ## Education
 
 **Vanderbilt University**  
-*B.E. in Biomedical Engineering — Expected 2027*  
+*B.E. Biomedical Engineering — Expected 2027*  
 *Minors: Engineering Management and Digital Fabrication*
 
 ## Work Experience
 
 **Undergraduate Research Assistant**  
 Vanderbilt University Medical Center  
-*January 2027 – Present*
+*January 2025 – Present*
 
 **Healthcare Technology Consulting Intern**  
 Guidehouse  
@@ -39,11 +39,11 @@ Colleen has experience with engineering design, digital fabrication, biomedical 
 - **Hardware:** Arduino, electronic prototyping, circuit design, sensors, actuators
 
 ## Presentations
-"A Physiological Closed-Loop System for Automated Fluid Resuscitation", ASAIO 2026
-*June 2026*
 
-"Custom Cannula Engineering for Heart-Lung Perfusion and Transplantation Applications", BMES 2025
-*Oct. 2025*
+| ASAIO 2026 | BMES 2025 |
+|:---:|:---:|
+| <img src="/assets/img/asaio_presentation.jpg" alt="ASAIO 2026 presentation" width="300"> | <img src="/assets/img/bmes_presentation.jpg" alt="BMES 2025 presentation" width="300"> |
+| *“A Physiological Closed-Loop System for Automated Fluid Resuscitation”*<br>June 2026 | *“Custom Cannula Engineering for Heart-Lung Perfusion and Transplantation Applications”*<br>October 2025 |
 
 
 ![Colleen Burke](/assets/img/Headshot.jpg)
