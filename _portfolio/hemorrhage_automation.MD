@@ -84,9 +84,7 @@ The final system combines a monitoring platform, physiological data-processing p
 
 ## Arduino Code
 
-The Arduino code used to control the pumps, solenoid valves, and sensor feedback is available on GitHub:
-
-[View the Arduino code on GitHub](https://github.com/colleenmburke/automated_hemorrhage_resuscitation/blob/main/DARPA_HemorrhageControl.ino)
+The Arduino code used to control the pumps, solenoid valves, and sensor feedback is [available on GitHub](https://github.com/colleenmburke/automated_hemorrhage_resuscitation/blob/main/DARPA_HemorrhageControl.ino).
 
 ## Interactive Fusion 360 Model
 
