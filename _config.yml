@@ -15,7 +15,7 @@ title                    : "Colleen Burke"
 title_separator          : "-"
 subtitle                 : "Student · Engineer · Researcher"
 name                     : &name "Colleen Burke" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
+description              : &description "Biomedical engineering student and researcher"
 url                      : https://colleenmburke.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -81,10 +81,10 @@ og_image                 :
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+  type                   : "Person"
+  name                   : "Colleen Burke"
+  links:
+    - "https://www.linkedin.com/in/colleen-m-burke/"
 
 # Analytics
 analytics:
@@ -101,23 +101,17 @@ author:
   bio              : "A student interested in medical device innovation and business strategy"
   location         : "Chicago, IL"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/colleen-m-burke/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.linkedin.com/in/colleen-m-burke-/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/colleen-m-burke/"
 
 
 # Reading Files
