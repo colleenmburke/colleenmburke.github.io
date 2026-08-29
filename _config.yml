@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "assets/img/Headshot.jpg"
   bio              : "A student interested in medical device innovation and business strategy"
   location         : "Chicago, IL"
   links:
