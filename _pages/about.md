@@ -1,31 +1,23 @@
 ---
 
-title: "About David Florian"
+title: "About Colleen Burke"
 
 ---
 
-## Education
+## Background
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Colleen is a biomedical engineering student interested in medical device development and the intersection of engineering, healthcare, and business strategy. Her academic and professional experiences have included biomedical research at the Vanderbilt University Medical Center and consulting within the life sciences and healthcare technology industries.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+Vanderbilt University
+*B.E. Biomedical Engineering*
+*Minors: Engineering Management, Digital Fabrication*
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Colleen has experience with engineering design, digital fabrication, and biomedical research.
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
-
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+* Software: MATLAB, Arduino IDE, Fusion 360, PreForm
+* Fabrication: Fused Filament Fabrication (FFF), Stereolithography (SLA)
+* Hardware: Arduino, Electronic Prototyping
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
