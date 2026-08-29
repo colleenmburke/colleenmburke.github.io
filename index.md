@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Colleen Burke is a student engineer and researcher with a passion for medical device design, advanced manufacturing, and business strategy. Her area of expertise is cardiovascular medical device development, with an emphasis on trauma care and surgical innovation."
+excerpt: "Colleen Burke is a biomedical enginering student and researcher with a passion for medical device design, advanced manufacturing, and business strategy. Her area of expertise is cardiovascular medical device development, with an emphasis on trauma care and surgical innovation."
 feature_row:
   - image_path: /assets/img/hemorrhage_electronics.png
     title: "Hemorrhage Resuscitation Automation"
