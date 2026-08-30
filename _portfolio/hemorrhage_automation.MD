@@ -74,7 +74,7 @@ The control process follows this general sequence:
 |---|---:|---|
 | Electronics enclosure body | 1 | Organizes and holds the control electronics |
 | Electronics enclosure lid | 1 | Protects the control electronics by screwing into the enslosure body |
-| Electronics enclosure bracket | 1 | Secures teh enclosure body to the IV pole |
+| Electronics enclosure bracket | 1 | Secures the enclosure body to the IV pole |
 
 ## Final Design
 
