@@ -53,28 +53,28 @@ The control process follows this general sequence:
 
 | Component | Quantity | Function |
 |---|---:|---|
-| Arduino microcontroller | 1 | Controls valves, pumps, and sensor feedback |
-| Ultrasonic bubble sensors | [Quantity] | Detects bubbles in the fluid lines |
-| Solenoid valves | [Quantity] | Controls fluid-line opening and closing |
-| Peristaltic pumps | [Quantity] | Delivers fluids at controlled rates |
+| Ultrasonic bubble sensors | 3 | Detects bubbles in the fluid lines |
+| Solenoid valves | 3 | Controls fluid-line opening and closing |
+| Peristaltic pumps | 2 | Delivers fluids at controlled rates |
 | Arterial pressure transducer | 1 | Measures arterial pressure |
-| Relay or motor-driver modules | [Quantity] | Interfaces the Arduino with pumps and valves |
-| IV tubing and connectors | [Quantity] | Transfers fluid through the system |
-| Fluid bags or reservoirs | [Quantity] | Stores crystalloid, blood, and vasopressor solutions |
-| Electrical wiring and terminal blocks | [Quantity] | Connects system components |
-| Power supply | [Quantity] | Provides electrical power to the system |
-| [Add component] | [Quantity] | [Describe function] |
+| Arduino microcontroller | 1 | Controls valves, pumps, and sensor feedback |
+| Relay | 1 | Interfaces the Arduino with pumps and valves |
+| Busbar | 2 | Distributes power among electronic components |
+| 12V power supply | 1 | Powers the sensors and valves |
+| 24V power supply | 1 | Powers the pumps |
+| IV tubing and connectors | 10ft | Transfers fluid through the system |
+| Fluid bags | 3 | Stores crystalloid, blood, and vasopressor solutions |
+| Electrical wiring | 30ft | Connects system components |
+| M5 screws | 8 | Secure electronics enclosure to the IV pole |
+| IV pole | 1 | Provides portable base for electronics and fluids |
 
 ## 3D-Printed Parts
 
 | Printed Part | Quantity | Function |
 |---|---:|---|
-| Electronics enclosure | 1 | Protects and organizes the control electronics |
-| Pump mount or bracket | [Quantity] | Secures the peristaltic pump assembly |
-| Sensor mount | [Quantity] | Positions the ultrasonic bubble sensor on the fluid line |
-| Tubing guide or clip | [Quantity] | Organizes and routes fluid tubing |
-| Valve or component bracket | [Quantity] | Secures valves or other hardware |
-| [Add printed part] | [Quantity] | [Describe function] |
+| Electronics enclosure body | 1 | Organizes and holds the control electronics |
+| Electronics enclosure lid | 1 | Protects the control electronics by screwing into the enslosure body |
+| Electronics enclosure bracket | 1 | Secures teh enclosure body to the IV pole |
 
 ## Final Design
 
@@ -84,7 +84,7 @@ The final system combines a monitoring platform, physiological data-processing p
 
 ## Arduino Code
 
-The Arduino code used to control the pumps, solenoid valves, and sensor feedback is [available on GitHub](https://github.com/colleenmburke/automated_hemorrhage_resuscitation/blob/main/DARPA_HemorrhageControl.ino).
+The Arduino code used to control the pumps, solenoid valves, and sensor feedback is [available on GitHub](https://gist.github.com/colleenmburke/d0f41d8d280c0e27e17f4a7c7ab6ebcd).
 
 ## Interactive Fusion 360 Model
 
@@ -101,12 +101,12 @@ The interactive Fusion 360 model of the assembly is embedded below:
 
 ## How to Operate the System
 
-1. Connect the arterial pressure transducer to the patient’s arterial line or test setup.
-2. Connect the fluid reservoirs to their designated tubing lines.
-3. Confirm that the blood, crystalloid, and vasopressor lines are connected correctly.
-4. Verify that the peristaltic pumps, solenoid valves, and ultrasonic bubble sensors are connected to the control system.
+1. Connect the arterial pressure transducer to the patient’s arterial line or benchtop setup.
+2. Connect the fluid bags to their designated tubing lines and confirm that the blood, crystalloid, and vasopressor lines are connected correctly.
+3. Verify that the peristaltic pumps, solenoid valves, and ultrasonic bubble sensors are connected to the control system.
+4. Plug in the 12V and 24V power supplies.
 5. Start LabChart and begin acquiring the arterial pressure signal.
-6. Run the MATLAB processing and control script.
+6. Start the MATLAB processing and control script.
 7. Confirm that the Arduino is receiving commands and communicating with the pumps, valves, and sensors.
 8. Allow the system to classify the patient’s physiological state.
 9. The system will automatically select and deliver the appropriate fluid response.
