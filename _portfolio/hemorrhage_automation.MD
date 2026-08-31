@@ -7,7 +7,7 @@ header:
 gallery:
   - image_path: assets/img/hemorrhage_box.png
   - image_path: assets/img/pulsatile_pump.png
-  - image_path: assets/img/hemorrhage_setup.png
+  - image_path: assets/img/hemorrhage_electronics.png
    
 ---
 
