@@ -53,24 +53,24 @@ The control process follows this general sequence:
 
 | Component | Quantity | Function |
 |---|---:|---|
-| Ultrasonic bubble sensors | 3 | Detects bubbles in the fluid lines |
-| Solenoid valves | 3 | Controls fluid-line opening and closing |
-| Peristaltic pumps | 2 | Delivers fluids at controlled rates |
+| Ultrasonic bubble sensors | 3 | Detect bubbles in the fluid lines |
+| Solenoid valves | 3 | Control fluid-line opening and closing |
+| Peristaltic pumps | 2 | Deliver fluids at controlled rates |
 | Arterial pressure transducer | 1 | Measures arterial pressure |
 | Arduino microcontroller | 1 | Controls valves, pumps, and sensor feedback |
 | Relay | 1 | Interfaces the Arduino with pumps and valves |
-| Busbar | 2 | Distributes power among electronic components |
+| Busbar | 2 | Distribute power among electronic components |
 | 12V power supply | 1 | Powers the sensors and valves |
 | 24V power supply | 1 | Powers the pumps |
-| IV tubing and connectors | 10ft | Transfers fluid through the system |
-| Fluid bags | 3 | Stores crystalloid, blood, and vasopressor solutions |
-| Electrical wiring | 30ft | Connects system components |
-| M5 screws | 8 | Secures electronics enclosure to the IV pole |
+| IV tubing and connectors | 10 ft | Transfer fluid through the system |
+| Fluid bags | 3 | Store crystalloid, blood, and vasopressor solutions |
+| Electrical wiring | 30 ft | Connect system components |
+| M5 screws | 8 | Secure electronics enclosure to the IV pole |
 | IV pole | 1 | Provides portable base for electronics and fluids |
 
-## 3D-Printed Parts
+## 3D-Printed Components
 
-| Printed Part | Quantity | Function |
+| Printed Component | Quantity | Function |
 |---|---:|---|
 | Electronics enclosure body | 1 | Organizes and holds the control electronics |
 | Electronics enclosure lid | 1 | Protects the control electronics by screwing into the enclosure body |
