@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/istockphoto-1610685617-612x612.jpg
+  overlay_image: /assets/img/banner-background-of-professional-surgical-doctor-team-are-working-in-hospital-operation-room-medicine-surgeon-person-teamwork-concept-free-photo.jpg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
