@@ -84,7 +84,7 @@ social:
   type                   : "Person"
   name                   : "Colleen Burke"
   links:
-    - "https://www.linkedin.com/in/colleen-m-burke/"
+    - "https://www.linkedin.com/in/colleen-m-burke-/"
 
 # Analytics
 analytics:
@@ -103,7 +103,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/colleen-m-burke/"
+      url: "https://www.linkedin.com/in/colleen-m-burke-/"
 
 
 # Site Footer
@@ -111,7 +111,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/colleen-m-burke/"
+      url: "https://www.linkedin.com/in/colleen-m-burke-/"
 
 
 # Reading Files
