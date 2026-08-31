@@ -65,7 +65,7 @@ The control process follows this general sequence:
 | IV tubing and connectors | 10ft | Transfers fluid through the system |
 | Fluid bags | 3 | Stores crystalloid, blood, and vasopressor solutions |
 | Electrical wiring | 30ft | Connects system components |
-| M5 screws | 8 | Secure electronics enclosure to the IV pole |
+| M5 screws | 8 | Secures electronics enclosure to the IV pole |
 | IV pole | 1 | Provides portable base for electronics and fluids |
 
 ## 3D-Printed Parts
