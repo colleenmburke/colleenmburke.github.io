@@ -23,6 +23,11 @@ Common applications of print-in-place components include:
 | <img src="images/toy.jpg" alt="Print-in-place toy" width="200"> | <img src="images/bearing.jpg" alt="Print-in-place bearing" width="200"> | <img src="images/telescoping-object.jpg" alt="Print-in-place telescoping object" width="200"> | <img src="images/tool.jpg" alt="Print-in-place tool" width="200"> |
 | [Toys and fidgets](#) | [Mechanical bearings](#) | [Folding and telescoping objects](#) | [Functional tools](#) |
 {% include gallery caption="Print-in-Place Gallery" %}
+https://www.printables.com/model/928-yet-another-fidget-infinity-cube-v2
+https://www.thingiverse.com/thing:6396239
+https://www.printables.com/model/536001-collapsing-master-sword-print-in-place/comments 
+https://www.printables.com/model/618534-print-in-place-adjustable-wrench
+
 
 Despite these benefits, print-in-place designs present several challenges. Moving parts must be printed with sufficient clearance to prevent them from fusing together, while still remaining secure and functional. The ability to print a mechanism without supports also depends on factors such as its geometry, orientation, bridging requirements, and material properties. In addition, tolerances can vary between printers, materials, and slicer settings, meaning that each design may require calibration and testing to achieve reliable movement.
 
