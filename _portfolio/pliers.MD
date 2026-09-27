@@ -9,7 +9,7 @@ gallery:
     title: "Infinity Cube"
     url: "https://www.printables.com/model/928-yet-another-fidget-infinity-cube-v2"
 
-  - image_path: /assets/img/ball_bearing.jpb
+  - image_path: /assets/img/ball_bearing.png
     title: "Mechanical Bearing"
     url: "https://www.thingiverse.com/thing:6396239"
 
@@ -18,7 +18,7 @@ gallery:
     url: "https://www.printables.com/model/536001-collapsing-master-sword-print-in-place/comments"
 
   - image_path: /assets/img/wrench.webp
-    title: "Print-in-Place Adjustable Wrench"
+    title: "Adjustable Wrench"
     url: "https://www.printables.com/model/618534-print-in-place-adjustable-wrench"
 ---
 
@@ -29,7 +29,30 @@ This project explores the design and fabrication of print-in-place components us
 Print-in-place components offer several advantages. They can reduce the total number of parts, eliminate fasteners and adhesives, and preserve the strength and continuity of the printed geometry. They can also produce mechanisms that are compacted, folded, or nested during printing and expanded afterward, making it possible to fabricate geometries that might otherwise exceed the printer’s build volume.
 
 Common applications of print-in-place components include:
-{% include gallery caption="Print-in-Place Applications" %}
+
+### Toys and Fidgets
+
+[![Infinity Cube](/assets/img/infinity_cube.webp)](https://www.printables.com/model/928-yet-another-fidget-infinity-cube-v2)
+
+Print-in-place toys and fidgets commonly use integrated hinges, joints, and articulated sections.
+
+### Mechanical Bearings
+
+[![Mechanical Bearing](/assets/img/ball_bearing.png)](https://www.thingiverse.com/thing:6396239)
+
+Print-in-place bearings demonstrate how rolling components can be manufactured as a single assembly.
+
+### Folding and Telescoping Objects
+
+[![Collapsing Master Sword](/assets/img/sword.webp)](https://www.printables.com/model/536001-collapsing-master-sword-print-in-place/comments)
+
+Folding and telescoping objects can expand after printing, allowing larger designs to fit within a printer’s build volume.
+
+### Functional Tools
+
+[![Adjustable Wrench](/assets/img/wrench.webp)](https://www.printables.com/model/618534-print-in-place-adjustable-wrench)
+
+Print-in-place tools can integrate handles, hinges, and linkages without requiring separate fasteners.
 
 Despite these benefits, print-in-place designs present several challenges. Moving parts must be printed with sufficient clearance to prevent them from fusing together, while still remaining secure and functional. The ability to print a mechanism without supports also depends on factors such as its geometry, orientation, bridging requirements, and material properties. In addition, tolerances can vary between printers, materials, and slicer settings, meaning that each design may require calibration and testing to achieve reliable movement.
 
