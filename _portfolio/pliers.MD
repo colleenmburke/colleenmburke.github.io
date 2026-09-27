@@ -4,23 +4,6 @@ excerpt: "Multimaterial print-in-place pliers with a customizable flexible sprin
 header:
   image: /assets/img/hemorrhage_website.png
   teaser: /assets/img/hemorrhage_electronics.png
-gallery:
-  - image_path: /assets/img/infinity_cube.webp
-    title: "Infinity Cube"
-    url: "https://www.printables.com/model/928-yet-another-fidget-infinity-cube-v2"
-
-  - image_path: /assets/img/ball_bearing.png
-    title: "Mechanical Bearing"
-    url: "https://www.thingiverse.com/thing:6396239"
-
-  - image_path: /assets/img/sword.webp
-    title: "Collapsing Master Sword"
-    url: "https://www.printables.com/model/536001-collapsing-master-sword-print-in-place/comments"
-
-  - image_path: /assets/img/wrench.webp
-    title: "Adjustable Wrench"
-    url: "https://www.printables.com/model/618534-print-in-place-adjustable-wrench"
----
 
 ## Project Overview
 
@@ -32,7 +15,7 @@ Common applications of print-in-place components include:
 
 ### Toys and Fidgets
 
-[![Infinity Cube](/assets/img/infinity_cube.webp)](https://www.printables.com/model/928-yet-another-fidget-infinity-cube-v2)
+[![Infinity Cube](/assets/img/infinity_cube.png)](https://www.printables.com/model/928-yet-another-fidget-infinity-cube-v2)
 
 Print-in-place toys and fidgets commonly use integrated hinges, joints, and articulated sections.
 
@@ -44,13 +27,13 @@ Print-in-place bearings demonstrate how rolling components can be manufactured a
 
 ### Folding and Telescoping Objects
 
-[![Collapsing Master Sword](/assets/img/sword.webp)](https://www.printables.com/model/536001-collapsing-master-sword-print-in-place/comments)
+[![Collapsing Master Sword](/assets/img/sword.png)](https://www.printables.com/model/536001-collapsing-master-sword-print-in-place/comments)
 
 Folding and telescoping objects can expand after printing, allowing larger designs to fit within a printer’s build volume.
 
 ### Functional Tools
 
-[![Adjustable Wrench](/assets/img/wrench.webp)](https://www.printables.com/model/618534-print-in-place-adjustable-wrench)
+[![Adjustable Wrench](/assets/img/wrench.png)](https://www.printables.com/model/618534-print-in-place-adjustable-wrench)
 
 Print-in-place tools can integrate handles, hinges, and linkages without requiring separate fasteners.
 
