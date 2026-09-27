@@ -14,14 +14,18 @@ gallery:
 ## Project Overview
 
 This project explores the design and fabrication of print-in-place components using Fused Filament Fabrication (FFF). Print-in-place parts are assemblies manufactured as a single print, with moving elements such as hinges, joints, and linkages integrated into the design. After printing, the components are activated by manually moving or freeing the joints, eliminating the need for separate assembly. Some designs may also include components that are hand-pressed into place after printing.
+
 Print-in-place components offer several advantages. They can reduce the total number of parts, eliminate fasteners and adhesives, and preserve the strength and continuity of the printed geometry. They can also produce mechanisms that are compacted, folded, or nested during printing and expanded afterward, making it possible to fabricate geometries that might otherwise exceed the printer’s build volume.
+
 Common applications of print-in-place components include:
 -	Toys and fidgets
 -	Mechanical bearings
 -	Folding and telescoping objects
 -	Functional tools
-{% include gallery caption="Automated Hemorrhage Resuscitation Gallery" %}
+{% include gallery caption="Print-in-Place Gallery" %}
+
 Despite these benefits, print-in-place designs present several challenges. Moving parts must be printed with sufficient clearance to prevent them from fusing together, while still remaining secure and functional. The ability to print a mechanism without supports also depends on factors such as its geometry, orientation, bridging requirements, and material properties. In addition, tolerances can vary between printers, materials, and slicer settings, meaning that each design may require calibration and testing to achieve reliable movement.
+
 To address these challenges, this project incorporates multimaterial printing. PLA and PETG can be used together in mechanically interlocking designs because they do not strongly adhere to one another, allowing components to separate cleanly while maintaining precise geometry. However, this combination requires careful control of clearances and may still require hand assembly. A second option is to combine PLA, or another rigid material, with TPU 95A. PLA provides structural support, while TPU adds flexibility and can accommodate movement and minor variations in fit. In this project, the components are fabricated separately and hand-pressed together after printing. This approach combines the strength of a rigid material with the adaptability of a flexible one, creating a mechanism that is more tolerant of variation than a fully rigid, single-material design.
 
 ## Interactive Fusion 360 Model
