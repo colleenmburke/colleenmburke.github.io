@@ -18,10 +18,10 @@ This project explores the design and fabrication of print-in-place components us
 Print-in-place components offer several advantages. They can reduce the total number of parts, eliminate fasteners and adhesives, and preserve the strength and continuity of the printed geometry. They can also produce mechanisms that are compacted, folded, or nested during printing and expanded afterward, making it possible to fabricate geometries that might otherwise exceed the printer’s build volume.
 
 Common applications of print-in-place components include:
--	Toys and fidgets
--	Mechanical bearings
--	Folding and telescoping objects
--	Functional tools
+| Toys and Fidgets | Mechanical Bearings | Folding and Telescoping Objects | Functional Tools |
+|---|---|---|---|
+| <img src="images/toy.jpg" alt="Print-in-place toy" width="200"> | <img src="images/bearing.jpg" alt="Print-in-place bearing" width="200"> | <img src="images/telescoping-object.jpg" alt="Print-in-place telescoping object" width="200"> | <img src="images/tool.jpg" alt="Print-in-place tool" width="200"> |
+| [Toys and fidgets](#) | [Mechanical bearings](#) | [Folding and telescoping objects](#) | [Functional tools](#) |
 {% include gallery caption="Print-in-Place Gallery" %}
 
 Despite these benefits, print-in-place designs present several challenges. Moving parts must be printed with sufficient clearance to prevent them from fusing together, while still remaining secure and functional. The ability to print a mechanism without supports also depends on factors such as its geometry, orientation, bridging requirements, and material properties. In addition, tolerances can vary between printers, materials, and slicer settings, meaning that each design may require calibration and testing to achieve reliable movement.
