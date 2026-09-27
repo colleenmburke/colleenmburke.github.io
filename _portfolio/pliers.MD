@@ -5,19 +5,19 @@ header:
   image: /assets/img/hemorrhage_website.png
   teaser: /assets/img/hemorrhage_electronics.png
 gallery:
-  - image_path: /assets/img/infinity_cube.png
+  - image_path: /assets/img/infinity_cube.webp
     title: "Infinity Cube"
     url: "https://www.printables.com/model/928-yet-another-fidget-infinity-cube-v2"
 
-  - image_path: /assets/img/ball_bearing.png
+  - image_path: /assets/img/ball_bearing.jpb
     title: "Mechanical Bearing"
     url: "https://www.thingiverse.com/thing:6396239"
 
-  - image_path: /assets/img/sword.png
+  - image_path: /assets/img/sword.webp
     title: "Collapsing Master Sword"
     url: "https://www.printables.com/model/536001-collapsing-master-sword-print-in-place/comments"
 
-  - image_path: /assets/img/wrench.png
+  - image_path: /assets/img/wrench.webp
     title: "Print-in-Place Adjustable Wrench"
     url: "https://www.printables.com/model/618534-print-in-place-adjustable-wrench"
 ---
