@@ -4,6 +4,7 @@ excerpt: "Multimaterial print-in-place pliers with a customizable flexible sprin
 header:
   image: /assets/img/hemorrhage_website.png
   teaser: /assets/img/hemorrhage_electronics.png
+---
 
 ## Project Overview
 
