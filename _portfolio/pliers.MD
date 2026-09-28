@@ -58,11 +58,11 @@ The interactive Fusion 360 model of the assembly is embedded below:
 ## Design Purpose and Features
 
 The pliers were designed as a modular, multimaterial mechanism that combines rigid PLA components with a flexible spring component. The spring is positioned at the center of the pliers and connects the four PLA components: two handles and two jaws. Dovetail joints retain the spring and allow it to be pressed into place without requiring adhesives or additional fasteners. The dovetail joints use an approximately 4:1 angle, a common proportion that provides strong tensile resistance while still allowing the parts to be assembled by hand.
+
 Several spring iterations were produced to evaluate the effects of infill density and line width on flexibility, strength, and ease of replacement. These variations made it possible to identify a spring configuration that provided sufficient restoring force for the pliers while remaining easy to remove and replace for different applications.
+
 The first iterations used a 45-degree infill orientation in the flexible component. This orientation restricted movement along the desired axis and prevented the pliers from closing properly. These versions also used more cross-hatched infill lines with smaller line widths, which increased flexibility but made the spring more susceptible to breaking. Later iterations used a 90-degree infill orientation and thicker infill lines. Although these designs used fewer lines, they produced a stronger spring that allowed movement along the correct axis and improved the component’s durability.
 Early versions of the pliers also featured thin geometries that allowed the jaws to shift out of plane. To address this issue, later iterations increased the thickness of both the rigid and flexible components along the z-axis. This created a more secure fit between the parts, reduced lateral movement, and prevented the jaws from slipping out of alignment during use.
-
-{% include gallery caption="Automated Hemorrhage Resuscitation Gallery" %}
 
 ### Specifications
 
