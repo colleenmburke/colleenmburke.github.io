@@ -2,8 +2,8 @@
 title: "Print-in-Place Pliers"
 excerpt: "Multimaterial print-in-place pliers with a customizable flexible spring."
 header:
-  image: /assets/img/hemorrhage_website.png
-  teaser: /assets/img/hemorrhage_electronics.png
+  image: /assets/img/pliers_final.jpeg
+  teaser: /assets/img/pliers_final.jpeg
 ---
 
 ## Project Overview
