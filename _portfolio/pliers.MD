@@ -66,7 +66,7 @@ The first iteration used components that were only 2 mm thick. This caused the j
 <table>
   <tr>
     <td align="center">
-      <img src="/assets/img/pliers_1.jpeg" alt="First Iteration Pliers Image" width="400">
+      <img src="/assets/img/pliers_1.jpeg" alt="First Iteration Pliers Image" width="600">
     </td>
     <td align="center">
       <img src="/assets/img/pliers_1_gif.gif" alt="First Iteration Pliers GIF" width="400">
@@ -79,7 +79,7 @@ The second iteration increased the overall thickness of the plier components to 
 <table>
   <tr>
     <td align="center">
-      <img src="/assets/img/pliers_2.jpeg" alt="Second Iteration Pliers Image" width="400">
+      <img src="/assets/img/pliers_2.jpeg" alt="Second Iteration Pliers Image" width="600">
     </td>
     <td align="center">
       <img src="/assets/img/pliers_2_closeup.jpeg" alt="First Iteration Pliers Delamination" width="400">
@@ -92,7 +92,7 @@ The final iteration slightly increased the dovetail clearance to improve assembl
 <table>
   <tr>
     <td align="center">
-      <img src="/assets/img/pliers_final_w_inserts.jpeg" alt="Final Iteration Pliers with Inserts" width="400">
+      <img src="/assets/img/final_pliers_w_inserts.jpeg" alt="Final Iteration Pliers with Inserts" width="600">
     </td>
     <td align="center">
       <img src="/assets/img/pliers_final_gif.gif" alt="Final Iteration Pliers Gif" width="400">
@@ -104,21 +104,24 @@ The final iteration slightly increased the dovetail clearance to improve assembl
 
 | Component      | Size       |
 |----------------|------------|
-| Jaw length     | 20 mm      |
-| Jaw capacity   | 5 mm       |
-| Total length   | 50 mm      |
-| Handle length  | 30 mm      |
+| Jaw length     | 84 mm      |
+| Thickness    | 8 mm   |
+| Opening width   | 10 mm       |
+| Total length   | 186 mm      |
+| Handle length  | 100 mm      |
+| Handle span  | 45 mm      |
+| Jaw angle  | 0 degrees      |
 | Jaw surface    | Serrated   |
 
 ### Printer Settings
 
 | Print setting                  | PLA print setting | TPU 95A print setting |
 |--------------------------------|-------------------|-----------------------|
-| Nozzle                         | 0.6 mm            | 0.6 mm                |
-| Vertical shell perimeters      | 3                 | 4                     |
+| Nozzle                         | 0.4 mm            | 0.6 mm                |
+| Vertical shell perimeters      | 4                 | 4                     |
 | Horizontal shell solid layers  | 3                 | 0                     |
 | Infill pattern                 | Honeycomb         | Grid                  |
-| Infill density                 | 15%               | 18%                   |
+| Infill density                 | 15%               | 25%                   |
 | Infill angle                   | 45 degrees        | 90 degrees            |
 | Infill extrusion width         | 100%              | 200%                  |
 | Solid infill threshold         | 0                 | 5 mm                  |
