@@ -2,8 +2,8 @@
 title: "Print-in-Place Pliers"
 excerpt: "Multimaterial print-in-place pliers with a customizable flexible spring."
 header:
-  image: /assets/img/pliers_final_w_inserts.jpeg
-  teaser: /assets/img/pliers_final.jpeg
+  image: /assets/img/pliers_final.jpeg
+  teaser: /assets/img/final_pliers_w_inserts.jpeg
 ---
 
 ## Project Overview
