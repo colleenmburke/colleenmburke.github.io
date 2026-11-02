@@ -49,37 +49,26 @@ The interactive Fusion 360 model of the assembly is embedded below:
 
 ## Design Parameters
 
-The current design parameters are shown below.
+The current design parameters are shown below with a drawing of the critical parameters.
 
 | Parameter | Value |
 |---|---:|
-| Minimum small-particle diameter | 0.053 mm |
-| Maximum small-particle diameter | 0.063 mm |
-| Minimum large-particle diameter | 0.125 mm |
-| Maximum large-particle diameter | 0.150 mm |
+| Minimum small-particle diameter | 53 µm |
+| Maximum small-particle diameter | 63 µm |
+| Minimum large-particle diameter | 125 µm |
+| Maximum large-particle diameter | 150 µm |
 | Channel height | 0.24 mm |
 | Pinch width | 0.48 mm |
 | Broad-section width | 19 mm |
-| Average small-particle diameter | 0.058 mm |
-| Average large-particle diameter | 0.138 mm |
-| Average small-particle position | 17.852 mm |
-| Average large-particle position | 16.279 mm |
 | Pinch length | 3 mm |
-| Maximum particle position | 16.031 mm |
-
-## Design Calculations
-
-### Particle-Position Parameters
-
-The parameter calculations used in the design are shown in Image #1.
-
-![Image #1: Design parameter calculations](image.png)
-
-### Hydraulic Resistance Equation
-
-The hydraulic-resistance equation used for the rectangular channels is shown in Image #2.
-
-![Image #2: Rectangular-channel hydraulic resistance equation](image.png)
+| Total snake length | 40 mm |
+| Narrow section length | 20 mm |
+| Wide section length | 20 mm |
+| Narrow section width | 3.177 mm |
+| Wide section width | 5.177 mm |
+| Resisatnce of enhanced segment | 6.91 $\dfrac{\text{Pa} \cdot \text{s}}{\text{mm}^3}$ |
+| Resistance of sink segment | 2.54 $\dfrac{\text{Pa} \cdot \text{s}}{\text{mm}^3}$ |
+| Ratio of resistances (Re/Rs) | 2.721 |
 
 ## Instructions
 
@@ -107,9 +96,6 @@ My design is fully parameterized with respect to particle size and related varia
 Pinch flow fractionation has been demonstrated to be effective for particles as small as 15 µm; however, applying PFF to increasingly smaller particles may be limited by various factors. One such factor is the size of the particle-containing buffer streamline in the pinch section. The streamline must be smaller than the smallest particle, which can be adjusted by modifying the ratio of inlet flow rates, but it can only be reliably decreased to a certain point. Smaller particle sizes also allow less room for error, meaning that even small variations in particle size can have significant implications. Since particle-flow separation depends on the consistent alignment of particles in the pinch section, which simply amplifies differences, smaller particles may have slightly different centers of mass that are amplified in the broad segment. Smaller particles may also be more likely to stick to imperfections on the device surface and/or bubbles. Additionally, smaller particles may introduce more 3D flow, where particles can stack on top of each other and deviate from the prescribed 2D flow equations that govern microfluidic design. There is not a single numerical limit for particle size, but using microfluidics with increasingly small particle sizes requires more consideration and likely more expensive fabrication techniques and technologies.
 
 ## References
-
-The citation links below can be replaced with the final sources used for the project.
-
-[^1]: Reference for the application of PFF to hematology analysis.
-[^2]: Reference for the application of PFF to cancer-cell detection.
-[^3]: Reference for the application of PFF to water-quality analysis.
+1.	Liu L, Lu BW, Wang XY, Fan LL, Wang JC, Zhao L. Multimodal particle separation via negative pressure-based pinch flow fractionation. Separation and Purification Technology. 2026 Nov 16;414:139709. doi:10.1016/j.seppur.2026.139709
+2.	Pødenphant M, Ashley N, Koprowska K, Mir KU, Zalkovskij M, Bilenberg B, et al. Separation of cancer cells from white blood cells by pinched flow fractionation. Lab Chip. 2015 Dec 21;15(24):4598–606. doi:10.1039/c5lc01014d PubMed PMID: 26510401.
+3.	Elsayed AA, Erfan M, Sabry YM, Dris R, Gaspéri J, Barbier JS, et al. A microfluidic chip enables fast analysis of water microplastics by optical spectroscopy. Sci Rep. 2021 May 18;11(1):10533. doi:10.1038/s41598-021-89960-4
