@@ -36,11 +36,16 @@ Using these parameters to calculate the resistance gave an Re/Rs value of 2.721.
 
 ## Interactive Fusion 360 Model
 
-The interactive Fusion 360 model will be added here after the design is uploaded.
+The interactive Fusion 360 model of the assembly is embedded below:
 
-<!-- Replace the placeholder below with the public Fusion 360 embed link. -->
-
-<iframe src="PASTE_FUSION_360_EMBED_LINK_HERE" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://a360.co/4BG4py3"
+        width="800"
+        height="600"
+        allowfullscreen="true"
+        webkitallowfullscreen="true"
+        mozallowfullscreen="true"
+        frameborder="0">
+</iframe>
 
 ## Design Parameters
 
