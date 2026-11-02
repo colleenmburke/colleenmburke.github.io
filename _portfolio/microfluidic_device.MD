@@ -18,7 +18,7 @@ To accomplish this, two fluid streams – a particle-containing solution and a b
 
 While PFF can be effective, adequate separation of particles can be hard to achieve and/or require excessively large broadening segments. To amplify separation of particles, enhanced pinch flow fractionation (EPFF) follows the same principles but also includes a geometric modification in the broadening segment. This snakelike structure impacts the distribution of hydraulic resistance and has the potential to increase particle separation distance by up to 70%. This modification further increases separation without increasing the overall size of the broadening segment or introducing external forces.
 
-Some applications that may use PFF and/or EPFF include hematology analysis, to separate the components of whole blood (red blood cells, white blood cells, and platelets)[^1], cancer detection, to separate cancerous cells from non-cancerous cells[^2], and water quality analysis, to separate microplastics and pollutants suspended in water[^3].
+Some applications that may use PFF and/or EPFF include hematology analysis, to separate the components of [whole blood (red blood cells, white blood cells, and platelets)](https://www.sciencedirect.com/science/article/pii/S1383586626029758), [cancer detection, to separate cancerous cells from non-cancerous cells](https://pubmed.ncbi.nlm.nih.gov/26510401/), and [water quality analysis, to separate microplastics and pollutants suspended in water](https://www.nature.com/articles/s41598-021-89960-4).
 
 ## Design
 
