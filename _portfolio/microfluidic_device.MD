@@ -66,8 +66,8 @@ The current design parameters are shown below with a drawing of the critical par
 | Wide section length | 20 mm |
 | Narrow section width | 3.177 mm |
 | Wide section width | 5.177 mm |
-| Resisatnce of enhanced segment | 6.91 $\dfrac{\text{Pa} \cdot \text{s}}{\text{mm}^3}$ |
-| Resistance of sink segment | 2.54 $\dfrac{\text{Pa} \cdot \text{s}}{\text{mm}^3}$ |
+| Resistance of enhanced segment | 6.91 $\frac{\text{Pa} \cdot \text{s}}{\text{mm}^3}$ |
+| Resistance of sink segment | 2.54 $\frac{\text{Pa} \cdot \text{s}}{\text{mm}^3}$ |
 | Ratio of resistances (Re/Rs) | 2.721 |
 
 ## Instructions
